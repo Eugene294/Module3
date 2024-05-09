@@ -4,12 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Module3
+namespace task3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            string myName;
+            myName = "Eugene";
+
+            Console.WriteLine(myName);
+
+            Console.ReadKey();
+
         }
     }
 }
