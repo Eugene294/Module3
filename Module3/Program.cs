@@ -15,6 +15,8 @@ namespace task3
 
             Console.WriteLine(myName);
 
+            Console.WriteLine('\x23');
+
             Console.ReadKey();
 
         }
